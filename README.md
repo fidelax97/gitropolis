@@ -50,7 +50,7 @@ Restart the server, enter a GitHub username and select **Generate city**. **Expl
 
 Keep `.env.local` private. Never commit the token or prefix it with `VITE_`.
 
-Use `npm run dev` for live lookup: it runs both the frontend and API locally. `npm run preview` serves only the built frontend. No Vercel account is needed.
+Use `npm run dev` for live lookup: it runs both the frontend and API locally. `npm run preview` serves only the built frontend.
 
 ## Features and controls
 
